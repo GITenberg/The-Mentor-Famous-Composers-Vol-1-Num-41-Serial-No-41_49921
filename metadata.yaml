@@ -19,5 +19,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Mentor: Famous Composers, Vol. 1, Num. 41, Serial No. 41'
 url: http://www.gutenberg.org/ebooks/49921
